@@ -1,0 +1,2 @@
+useradd oslab
+passwd oslab
